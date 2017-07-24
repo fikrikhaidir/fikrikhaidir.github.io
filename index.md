@@ -1,10 +1,10 @@
 ---
 layout: home
+title: Home
+landing-title: 'Hi, my name is Forty'
+description: null
+image: null
+author: null
 ---
-# About Me
 
-Welcome to my page, i am a Generic Project Manager, Humbled Python Programmer, Django Developer and Passionate AI Researcher.
-
-Check my own github repos [HERE](https://github.com/fikrikhaidir)
-
-Leave Comments or Contact me for any inquiries ! Thank You ! 
+Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
