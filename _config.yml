@@ -3,7 +3,7 @@ title: Muh. Fikri Khaidir
 subtitle: Blog & Portfolio
 email: fikrikhaidir@gmail.com
 description: Project Manager | Python Programmer | Django Web Developer | AI Researcher
-#baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://github.com/fikrikhaidir" # the base hostname & protocol for your site
 author: Muh. Fikri Khaidir
 street_address: Kaliurang St.
