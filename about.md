@@ -2,9 +2,11 @@
 layout: post
 title: About Me
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/last_supper.jpg
 nav-menu: true
 ---
+
+> Picture above is the remake of last supper where all the guys replaced with iconic scientist from time to time. i don't have a right fitting pic for this, so i post this one since i loved it. haha.
 
 #### Lots of love, it's me, Fikri
 
