@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-description: Lorem ipsum dolor est
+description: All you have to know about me
 image: assets/images/last_supper.jpg
 nav-menu: true
 ---
